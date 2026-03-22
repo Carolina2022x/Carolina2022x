@@ -1,5 +1,4 @@
 <!-- README de perfil: Carolina2022x -->
-<!-- ⚠️ Para LinkedIn: actualiza el link en la sección Conectemos -->
 
 <div align="center">
 
@@ -53,10 +52,36 @@ Soy estadística con más de 12 años transformando datos en decisiones reales e
 
 ## 🚀 Proyectos destacados
 
-| Proyecto | Stack | Estado |
-|---|---|---|
-| [📐 Matefriendly](https://matefriendly.cl) — _Matemáticas sin miedo para todos_ | HTML · TypeScript · JS · VPS Hostinger | 🟢 Activo |
-| [🌱 Silver Senior](https://silversenior.net) — _Tecnología para adultos mayores_ | JavaScript · HTML · CSS · VPS Hostinger | 🟢 Activo |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📐 [Matefriendly](https://matefriendly.cl)
+> _Aprender matemáticas puede ser maravilloso_
+
+Plataforma que combina **tecnología, juego y acompañamiento emocional** para ayudar a niñas y niños a desarrollar una relación positiva con las matemáticas. Ejercicios personalizados alineados al SIMCE, con datos visibles para familias y docentes.
+
+**Stack:** `HTML · TypeScript · JavaScript · VPS Hostinger`
+**Estado:** 🟢 Activo
+
+[![Matefriendly](https://img.shields.io/badge/Visitar-matefriendly.cl-6A0DAD?style=for-the-badge)](https://matefriendly.cl)
+
+</td>
+<td width="50%" valign="top">
+
+### 🥈 [Silver Senior](https://silversenior.net)
+> _Conectamos Sabiduría con Oportunidad_
+
+Primera plataforma en Chile diseñada para **revalorizar el talento senior** (+15 años de trayectoria), conectando a profesionales experimentados con empresas que valoran el liderazgo, la resiliencia y la visión estratégica. Incluye metodología propia CRITERIUM™.
+
+**Stack:** `JavaScript · HTML · CSS · API REST · VPS Hostinger`
+**Estado:** 🟢 Activo
+
+[![Silver Senior](https://img.shields.io/badge/Visitar-silversenior.net-00C9FF?style=for-the-badge)](https://silversenior.net)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -67,6 +92,28 @@ Soy estadística con más de 12 años transformando datos en decisiones reales e
 ![Carolina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carolina2022x&show_icons=true&theme=tokyonight&hide_border=true&title_color=6A0DAD&icon_color=00C9FF&text_color=ffffff&bg_color=0d1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carolina2022x&layout=compact&theme=tokyonight&hide_border=true&title_color=6A0DAD&text_color=ffffff&bg_color=0d1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carolina2022x&theme=tokyonight&hide_border=true&ring=6A0DAD&fire=00C9FF&currStreakLabel=6A0DAD)
+
+</div>
+
+---
+
+## 🌀 Fractal del día
+
+<div align="center">
+
+```
+        ★
+       ★★★
+      ★   ★
+     ★★★ ★★★
+    ★   ★   ★
+   ★★★ ★★★ ★★★
+  ★   ★   ★   ★
+ ★★★ ★★★ ★★★ ★★★
+```
+_"Los fractales son la poesía de las matemáticas — infinitamente complejos, infinitamente bellos."_
 
 </div>
 
@@ -81,6 +128,8 @@ Siempre abierta a colaborar en datos, IA o educación. Si tienes una idea intere
 [![Email](https://img.shields.io/badge/Email-cnvenega@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cnvenega@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conéctemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-venega)
 [![Web](https://img.shields.io/badge/Web-matefriendly.cl-6A0DAD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://matefriendly.cl)
+
+<br/>
 
 > _"No busco solo analizar el mundo con datos — quiero contribuir a cambiarlo."_
 
