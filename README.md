@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:00C9FF&height=200&section=header&text=Carolina%20Venega&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Estad%C3%ADstica%20%7C%20Data%20Science%20%7C%20IA&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:00C9FF&height=200&section=header&text=Carolina%20Venegas&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Estad%C3%ADstica%20%7C%20Data%20Science%20%7C%20IA&descAlignY=58&descSize=18)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Caro+%F0%9F%91%8B;Estad%C3%ADstica+%2B+IA+%3D+%E2%9D%A4%EF%B8%8F;Convirtiendo+datos+en+decisiones;Fractalista+por+vocaci%C3%B3n+%F0%9F%8C%80" alt="Typing SVG" />
 
